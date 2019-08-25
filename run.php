@@ -1,10 +1,20 @@
 <?php
-echo EDITOR = MR.29_+
-echo Jangan recode njiiiir!!!!!!!!!!!
-echo Awokwok
-clear
-read $php cfg.php
-echo "Masukkan Jumlah Suntik : ";
+
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+echo " "
+echo  $blue "<|======================================|>"
+echo  $blue "<|            Tools Nuyul Caping        |>"
+echo  $blue "<|                                      |>"
+echo  $blue "<| Name: Mr.29_+                        |>"
+echo  $blue "<| MyTeam: Erere Cyber Team             |>"              
+echo  $blue "<| Thanks To: Allah                     |>"
+echo  $blue "<|======================================|>"
+read  $php cfg.php
+echo  "Masukkan Jumlah Suntik : ";
 $jumlah	= trim(fgets(STDIN));
 echo "SetSleep : ";
 $wait	= trim(fgets(STDIN));
