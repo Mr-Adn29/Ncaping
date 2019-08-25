@@ -1,12 +1,9 @@
 <?php
-
-echo "Mr.29_+"
-echo "Erere Cyber Team"
-clear
-echo "Masukkan UserId/Uid : ";
-$uid 	= trim(fgets(STDIN));
-echo "Masukkan N ID : ";
-$n 	= trim(fgets(STDIN));
+echo "+==========================+"  ;
+echo "+          Mr.29_+         +"  ;
+echo "+      Erere Cyber Team    +"  ;
+echo "+==========================+"  ;
+read $cfg.php ;
 echo  "Masukkan Jumlah Suntik : ";
 $jumlah	= trim(fgets(STDIN));
 echo "SetSleep : ";
