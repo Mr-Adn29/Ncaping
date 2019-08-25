@@ -3,7 +3,7 @@ echo "+==========================+"  ;
 echo "+          Mr.29_+         +"  ;
 echo "+      Erere Cyber Team    +"  ;
 echo "+==========================+"  ;
-read $cfg.php ;
+php cfg.php ;
 echo  "Masukkan Jumlah Suntik : ";
 $jumlah	= trim(fgets(STDIN));
 echo "SetSleep : ";
