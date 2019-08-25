@@ -1,6 +1,8 @@
 <?php
-//author : Mr.29_+
-//Team   : Erere Cyber Team
+echo  "!--------------------------!"
+echo  "i         Mr.29_+          i"
+echo  "!    Erere Cyber Team      !"
+echo  "i--------------------------i"
 echo "Masukkan UserId/Uid : ";
 $uid 	= trim(fgets(STDIN));
 echo "Masukkan N ID : ";
