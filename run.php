@@ -1,5 +1,10 @@
 <?php
-php cfg.php
+//author : Mr.29_+
+//Team   : Erere Cyber Team
+echo "Masukkan UserId/Uid : ";
+$uid 	= trim(fgets(STDIN));
+echo "Masukkan N ID : ";
+$n 	= trim(fgets(STDIN));
 echo  "Masukkan Jumlah Suntik : ";
 $jumlah	= trim(fgets(STDIN));
 echo "SetSleep : ";
