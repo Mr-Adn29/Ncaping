@@ -2,8 +2,13 @@
 echo "+==========================+"  ;
 echo "+          Mr.29_+         +"  ;
 echo "+      Erere Cyber Team    +"  ;
+echo "+    Dosa Tanggung Sendiri +"  ;
+echo "+        AWOKWOKWOK        +"  ;
 echo "+==========================+"  ;
-php cfg.php ;
+echo "Masukkan UserId/Uid : ";
+$uid 	= trim(fgets(STDIN));
+echo "Masukkan N ID : ";
+$n 	= trim(fgets(STDIN));
 echo  "Masukkan Jumlah Suntik : ";
 $jumlah	= trim(fgets(STDIN));
 echo "SetSleep : ";
