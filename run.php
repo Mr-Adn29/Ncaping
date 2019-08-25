@@ -1,16 +1,11 @@
 <?php
-blue='\033[34;1m'
-green='\033[32;1m'
-purple='\033[35;1m'
-cyan='\033[36;1m'
-red='\033[31;1m'
-clear
-echo $blue "+======================================+"  ;
-echo $blue "+               Mr.29_+                +"  ;
-echo $blue "+          Erere Cyber Team            +"  ;
-echo $blue "+        Dosa Tanggung Sendiri         +"  ;
-echo $blue "+             AWOKWOKWOK               +"  ;
-echo $blue "+======================================+"  ;
+
+echo  "+======================================+"  ;
+echo  "+               Mr.29_+                +"  ;
+echo  "+          Erere Cyber Team            +"  ;
+echo  "+        Dosa Tanggung Sendiri         +"  ;
+echo  "+             AWOKWOKWOK               +"  ;
+echo  "+======================================+"  ;
 echo "Masukkan UserId/Uid : ";
 $uid 	= trim(fgets(STDIN));
 echo "Masukkan N ID : ";
